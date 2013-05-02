@@ -55,3 +55,7 @@ AuditPurge 720 lets you keep 720 days of logs.  A deep history is useful for det
 - Audit Most
 - AuditPurge 720
 
+License:
+================================
+GNU GENERAL PUBLIC LICENSE v2
+
